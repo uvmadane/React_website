@@ -1,0 +1,17 @@
+.time{
+  text-align: center;
+  margin: 250px 0px 10px 0px;
+  /* margin: auto; */
+  /* margin-top: auto; */
+}
+.btn1{
+  text-align: center;
+  margin: 0px 600px;
+  height: 50px;
+  width: 100px;
+  border-radius: 5px;
+  font-size: large;
+  background-color: aquamarine;
+  /* margin: auto; */
+  /* padding: 0px 80px 0px 0px; */
+}
